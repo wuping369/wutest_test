@@ -1,5 +1,5 @@
 /*******************/
-/* for P03 printer */
+/* for test printer */
 /*******************/
 #include "stdio.h"
 //#include <process.h>
